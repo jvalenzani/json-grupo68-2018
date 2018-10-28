@@ -1,5 +1,4 @@
-//PASAR .JSON A JAVIER (BORRAR VAR)
-games = [{"name" : "Tomb Raider",
+[{"name" : "Tomb Raider",
                     "valoration" : 9.7,
                     "comment" : "A super-b action game",
                     "commentFont" : "http://www.ign.com/articles/2002/11/04/age-of-mythology-review",
@@ -26,4 +25,4 @@ games = [{"name" : "Tomb Raider",
                     "price" : 10.99,
                         "requiments" : ["16gb ram", "60gb disco duro", "Targeta gráfica 1080ti 2gb",]
                     },
-        ];
+        ]
