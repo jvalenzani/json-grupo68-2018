@@ -1,12 +1,11 @@
-[{"name" : "Tomb Raider",
-                    "valoration" : 9.7,
-                    "comment" : "A super-b action game",
+[
+  {"name" : "Tomb Raider","valoration" : 9.7,"comment" : "A super-b action game",
                     "commentFont" : "http://www.ign.com/articles/2002/11/04/age-of-mythology-review",
                     "description" : "Tomb Raider relata la historia del origen de Lara Croft y su transformación de una joven chica a una endurecida superviviente.",
                     "categories" : "Aventura, Acción, Protagonista femenino, Shooter",
                     "price" : 15.99,
-                        "requiments" : ["16gb ram", "60gb disco duro", "Tarjeta gráfica 1080ti 2gb"]
-                      },
+                     "requiments" : ["16gb ram", "60gb disco duro", "Tarjeta gráfica 1080ti 2gb"]
+                     },
          {"name" : "Portal",
                     "valoration" : 9.9,
                     "comment" : "A crazy and awsome logic game.",
@@ -14,8 +13,8 @@
                     "description" : "Portal™ es la nueva aventura para un solo jugador de Valve. Ambientado en los misteriosos laboratorios de Aperture Science, Portal ha sido calificado como uno de los juegos más innovadores de los últimos tiempos y ofrece incontables horas de rompecabezas nunca vistos.",
                     "categories" : "Estrategia, Mitologia, Clasico, Fantasía, Singleplayer, Cooperativo",
                     "price" : 17.99,
-                        "requiments" : ["8gb ram", "40gb disco duro", "Tarjeta gráfica 780ti 2gb"]
-                      },
+                     "requiments" : ["8gb ram", "40gb disco duro", "Tarjeta gráfica 780ti 2gb"]
+        },
         {"name" : "Ejemplo",
                     "valoration" : 10.0,
                     "comment" : "Comentario",
@@ -24,5 +23,5 @@
                     "categories" : "Categoría, categoría",
                     "price" : 10.99,
                         "requiments" : ["16gb ram", "60gb disco duro", "Tarjeta gráfica 1080ti 2gb"]
-                    },
+                    }
         ]
