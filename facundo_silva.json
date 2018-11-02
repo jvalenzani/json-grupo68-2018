@@ -1,0 +1,22 @@
+[{
+		"nombre": "assassin's creed",
+		"precio": "70usd",
+		"descripcion": "Assassins Creed III es un videojuego de acción-aventura de la franquicia Assassins Creed, desarrollado y distribuido por Ubisoft, lanzado el 30 de octubre de 2012,1 aunque Ubisoft decidió adelantar la salida en España del 31 de octubre al 26 del mismo Fue lanzado para PlayStation 3, Xbox 360, Wii U y Microsoft Windows. La entrega anterior, Assassins Creed: Revelations cerró la trilogía de Ezio Auditore y en octubre de 2012, se lanzó el quinto título de la saga, Assassins Creed III. Esta entrega estaría protagonizada por un nuevo antepasado y dado que se iba a utilizar un personaje nuevo y no uno pre-existente en la saga, esta entrega fue numerada como Assassins Creed III.",
+		"Categoria": "No sin el habitual retraso al que se someten muchas versiones para compatibles de grandes títulos multiplataforma, Connor por fin desentierra su hacha de guerra también en PC. La Revolución Americana se revela también en ordenadores como un telón de fondo difícil de igualar para la más grande entrega de la saga de Ubisoft hasta la fecha. Acción y aventuras de inmejorable casta para el que sigue siendo uno de los juegos más redondos del año, y uno de los mejores de la actual generación de consolas. La venganza se escribe con sangre en Assassin’s Creed III.",
+		"valoracion": "8.0 'muy bueno.'"
+	},
+	{
+		"nombre": "Call of Duty",
+		"precio": "65 usd",
+		"descripcion": "Call of Duty es una serie de videojuegos en primera persona (FPS), de estilo bélico, creada por Ben Chichoski, desarrollada principal e inicialmente por Infinity Ward, y distribuida por Activision. La franquicia comenzó para computadora personal y posteriormente fue expandiéndose hacia videoconsolas de sexta y séptima generación, tanto de sobremesa como portátiles, llegando así, a lanzar varios juegos derivados de forma paulatina con la serie principal. La serie inicialmente se ambientaba en la Segunda Guerra Mundial, relatando personajes y combates acaecidos durante dicho conflicto bélico.",
+		"categoria": "Call of Duty: WWII da a los aficionados lo que deseaban, y eso puede parecer negativo algunas veces para la libertad creativa pero aquí resulta tremendamente efectivo. Poner de acuerdo sueños y aspiraciones siempre es complicado para una saga asentada, y Sledgehammer Games no arriesga en su apuesta por la Segunda Guerra Mundial. La campaña no está mal, pero es breve y algo convencional pero en todo lo demás sí ofrece un muy buen nivel. Es decir, que es una propuesta muy rica en contenidos y con un on-line conservador pero perfectamente calculado para volver a ser sencillo, frenético y muy adictivo.",
+		"valoracion": "8,0 'muy bueno'"
+	},
+	{
+		"nombre": "Fifa 2018",
+		"precio": "73 usd",
+		"descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vitae augue ex. Pellentesque et mauris congue, viverra ex a, porttitor sapien. Cras neque arcu, blandit at eros at, sollicitudin posuere eros. Vestibulum eget tortor nec augue faucibus dapibus et vitae magna. Morbi fermentum magna eleifend bibendum posuere. Mauris venenatis a erat a iaculis. Maecenas ultricies neque luctus, posuere elit sed, rhoncus urna. In quis ligula metus. Suspendisse nec est viverra, posuere arcu sit amet, efficitur ipsum. Mauris erat est, suscipit a quam a, semper auctor nulla. Duis sed ante mattis, interdum augue viverra, molestie felis. Nunc convallis lacus non nibh posuere, a convallis ante vestibulum. Nam vestibulum, lorem eu tempus auctor, mauris ex volutpat nisl, non convallis massa tortor sed felis.",
+		"categoria": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vitae augue ex. Pellentesque et mauris congue, viverra ex a, porttitor sapien. Cras neque arcu, blandit at eros at, sollicitudin posuere eros. Vestibulum eget tortor nec augue faucibus dapibus et vitae magna. Morbi fermentum magna eleifend bibendum posuere. Mauris venenatis a erat a iaculis. Maecenas ultricies neque luctus, posuere elit sed, rhoncus urna. In quis ligula metus. Suspendisse nec est viverra, posuere arcu sit amet, efficitur ipsum. Mauris erat est, suscipit a quam a, semper auctor nulla. Duis sed ante mattis, interdum augue viverra, molestie felis. Nunc convallis lacus non nibh posuere, a convallis ante vestibulum. Nam vestibulum, lorem eu tempus auctor, mauris ex volutpat nisl, non convallis massa tortor sed felis.",
+		"valoracion": "8.0 'muy bueno'"
+	}
+]
