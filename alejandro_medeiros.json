@@ -1,0 +1,54 @@
+[{
+    "nombre": "Skyrim",
+    "genero": ["acción", "aventura"], 
+    "precio": 1139, 
+    "demo": false
+},
+{
+    "nombre": "Playerunknown's Battlegrounds", 
+    "genero": "acción", 
+    "precio": 1139, 
+    "demo": false
+},
+{
+    "nombre": "Northgard",
+    "genero": "estrategia", 
+    "precio": 1139, 
+    "demo": false
+},
+{
+    "nombre": "Minecraft", 
+    "genero": "aventura", 
+    "precio": 1139, 
+    "demo": false
+},
+{
+    "nombre": "Grand Theft Auto V", 
+    "genero": "acción", 
+    "precio": 1139, 
+    "demo": false
+},
+{
+    "nombre": "Final Fantasy XV", 
+    "genero": ["acción", "aventura"], 
+    "precio": 1139, 
+    "demo": true
+},
+{
+    "nombre": "Counter Strike GO", 
+    "genero": "estrategia", 
+    "precio": 1139, 
+    "demo": false
+},
+{
+    "nombre": "Dota 2", 
+    "genero": "estrategia", 
+    "precio": 1139, 
+    "demo": false
+},
+{
+    "nombre": "Legue of Legends", 
+    "genero": "estrategia", 
+    "precio": 1139, 
+    "demo": false
+}]; 
