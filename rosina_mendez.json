@@ -23,5 +23,14 @@
                     "categories" : "Categoría, categoría",
                     "price" : 10.99,
                         "requiments" : ["16gb ram", "60gb disco duro", "Tarjeta gráfica 1080ti 2gb"]
+                    },
+          {"name" : "Hola Mundo",
+                    "valoration" : 10.0,
+                    "comment" : "Comentario",
+                    "commentFont" : "http://www.ign.com/articles/2002/11/04/age-of-mythology-review",
+                    "description" : "(Descripción del juego) Roblox es el mejor lugar para imaginar con amigos. Con la mayor plataforma de juegos en línea generados por usuarios y más de 15 millones de creaciones, Roblox ocupa el primer puesto entre los sitios de juegos para niños y adolescentes (comScore).",
+                    "categories" : "Categoría, categoría",
+                    "price" : 10.99,
+                        "requiments" : ["16gb ram", "60gb disco duro", "Tarjeta gráfica 1080ti 2gb"]
                     }
         ]
